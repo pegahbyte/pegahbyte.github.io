@@ -4,7 +4,7 @@ permalink: /data_visualization/
 title: "Data Management and Visualization project"
 author_profile: true
 header:
-  image: "/images/greens.png"
+  image: "/images/berlin.png"
 ---
 
 ### Visualized data on Green Parties in Europe.
