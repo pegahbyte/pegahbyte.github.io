@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Pegah Maham"
-  avatar           : "picture_hanover.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/hanover.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Berlin, DE"
   email            :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/pegahbyte"
+  github           : "pegahbyte"
   gitlab           :
   google_plus      :
   keybase          :

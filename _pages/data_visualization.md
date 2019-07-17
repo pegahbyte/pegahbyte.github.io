@@ -1,10 +1,10 @@
 ---
 layout: posts
-permalink: /data-visualization/
+permalink: /data_visualization/
 title: "Data Management and Visualization project"
 author_profile: true
 header:
-  image: "/images/greens.jpg"
+  image: "/images/greens.png"
 ---
 
 ### Visualized data on Green Parties in Europe.
