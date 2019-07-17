@@ -10,7 +10,7 @@ mathjax: "true"
 
 ### Visualized data on Green Parties in Europe
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/greens.jpg" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/greens.png" alt="linearly separable data">
 
 The full project can be found [here](https://github.com/pegahbyte/data_visualization).
 
