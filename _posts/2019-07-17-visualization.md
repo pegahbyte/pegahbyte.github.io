@@ -1,14 +1,14 @@
 ---
-title: "Data Visualization Project"
+title: "Data Visualization Project - Green Parties"
 date: 2019-07-17
-tags: [data wrangling, data science, data visualization, political data science]
+tags: [data wrangling, data management, data cleaning, data visualization, political data science]
 header:
   image: "/images/berlin.jpg"
-excerpt: "Data Wrangling, Data Visualization, Political Data Science"
+excerpt: "Data Wrangling, Data Cleaning, Data Visualization, Political Data Science"
 mathjax: "true"
 ---
 
-### Visualized data on Green Parties in Europe.
+### Visualized data on Green Parties in Europe
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/greens.jpg" alt="linearly separable data">
 
