@@ -10,7 +10,7 @@ mathjax: "true"
 
 ### What factors influence life satisfaction?
 
-To answer this question, I looked at data from the World Value Survey. The goal of this analysis is to find and select the most important factors that are correlated to self-reported life-satisfaction. 
+To answer this question, I looked at data from the *World Value Survey*. The goal of this analysis is to find the most important factors that are correlated to self-reported life-satisfaction. 
 To do so, I conducted a regression analysis and a lasso regression analysis. Moreover, I clustered the data and re-analysed it on cluster level with interesting findings. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/lasso.png" alt="linearly separable data">

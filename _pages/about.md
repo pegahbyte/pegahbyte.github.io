@@ -2,9 +2,13 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/nicaragua.jpg"
+  image: "/images/oberbaum.jpg"
 ---
 
-I am a data scientist passionate in finding insights through the analysis of data. I am experienced in data management, data visualizations, machine learning, artificial intelligence, social network analysis and NLP.
+I'm a data scientist passionate in finding insights through data and translating real-world problems into models and code. Experienced in data management, data visualizations, machine learning, artificial intelligence, social network analysis and NLP, I am looking for exciting projects to work on.
+
+Fluent in Python and R.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/python.png" alt="linearly separable data">
 
 
