@@ -9,6 +9,4 @@ I'm a data scientist passionate in finding insights through data and translating
 
 Fluent in Python and R.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/python.png" alt="linearly separable data">
-
 
