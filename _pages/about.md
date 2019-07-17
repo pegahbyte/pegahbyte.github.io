@@ -2,9 +2,9 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/nicaragua.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I'm a data scientist passionate in finding insights through the analysis of data. I am experienced in data management, data visualizations, machine learning, artificial intelligence, social network analysis and NLP.
 
-Etc, etc, etc
+
